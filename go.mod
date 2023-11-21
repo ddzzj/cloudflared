@@ -12,7 +12,7 @@ require (
 	github.com/getsentry/sentry-go v0.16.0
 	github.com/go-chi/chi/v5 v5.0.8
 	github.com/go-chi/cors v1.2.1
-	github.com/go-jose/go-jose/v3 v3.0.0
+	github.com/go-jose/go-jose/v3 v3.0.1
 	github.com/gobwas/ws v1.0.4
 	github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3
 	github.com/google/gopacket v1.1.19
@@ -25,6 +25,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.13.0
 	github.com/prometheus/client_model v0.2.0
+	github.com/quic-go/qtls-go1-20 v0.2.2
 	github.com/quic-go/quic-go v0.0.0-00010101000000-000000000000
 	github.com/rs/zerolog v1.20.0
 	github.com/stretchr/testify v1.8.1
@@ -86,7 +87,6 @@ require (
 	github.com/prometheus/common v0.37.0 // indirect
 	github.com/prometheus/procfs v0.8.0 // indirect
 	github.com/quic-go/qtls-go1-19 v0.3.2 // indirect
-	github.com/quic-go/qtls-go1-20 v0.2.2 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	golang.org/x/exp v0.0.0-20221205204356-47842c84f3db // indirect
 	golang.org/x/mod v0.8.0 // indirect
